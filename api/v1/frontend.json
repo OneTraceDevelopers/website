@@ -1,7 +1,7 @@
 {
     "downtime": {
-        "disabled": "false",
-        "disabled-reason": "Example Disabled Notice"
+        "disabled": "true",
+        "disabled-reason": "DRQ Had Anal With Me"
     },
     "update": {
         "version": "1.0.0.0",
