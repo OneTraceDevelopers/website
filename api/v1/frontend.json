@@ -1,0 +1,47 @@
+{
+    "downtime": {
+        "disabled": "false",
+        "disabled-reason": "Example Disabled Notice"
+    },
+    "update": {
+        "version": "1.0.0.0",
+        "download-link": ""
+    },
+    "ui": {
+        "dashboard": {
+            "patch-notes": ""
+        },
+        "skins": {
+            "tab-disabled": "false",
+            "items": [
+                "example.json|https://progameguides.com/wp-content/uploads/2019/04/fortnite-renegade-raider-icon-png.png",
+                "example.json|https://progameguides.com/wp-content/uploads/2019/04/fortnite-renegade-raider-icon-png.png",
+                "example.json|https://progameguides.com/wp-content/uploads/2019/04/fortnite-renegade-raider-icon-png.png"
+            ]
+        },
+        "backpacks": {
+            "tab-disabled": "false",
+            "items": [
+                "example.json|https://vignette.wikia.nocookie.net/fortnite/images/e/eb/Black_Shield_-_Back_Bling_-_Fortnite.png/revision/latest?cb=20180605160022",
+                "example.json|https://vignette.wikia.nocookie.net/fortnite/images/e/eb/Black_Shield_-_Back_Bling_-_Fortnite.png/revision/latest?cb=20180605160022",
+                "example.json|https://vignette.wikia.nocookie.net/fortnite/images/e/eb/Black_Shield_-_Back_Bling_-_Fortnite.png/revision/latest?cb=20180605160022"
+            ]
+        },
+        "pickaxes": {
+            "tab-disabled": "false",
+            "items": [
+                "example.json|https://fortnitewatch.com/wp-content/uploads/2018/09/raiders-revenge-fortnite-pickaxe-1.png",
+                "example.json|https://fortnitewatch.com/wp-content/uploads/2018/09/raiders-revenge-fortnite-pickaxe-1.png",
+                "example.json|https://fortnitewatch.com/wp-content/uploads/2018/09/raiders-revenge-fortnite-pickaxe-1.png"
+            ]
+        },
+        "emotes": {
+            "tab-disabled": "false",
+            "items": [
+                "example.json|https://i.imgur.com/Ht7zjfA.png",
+                "example.json|https://i.imgur.com/Ht7zjfA.png",
+                "example.json|https://i.imgur.com/Ht7zjfA.png"
+            ]
+        }
+    }
+}
