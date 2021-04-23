@@ -1,22 +1,40 @@
 {
     "downtime": {
         "disabled": "false",
-        "disabled-reason": "disabled notice"
+        "disabled-reason": "Example Disabled Notice"
     },
     "update": {
         "version": "1.0.0.0",
         "download-link": ""
     },
     "ui": {
+        "notifications": [
+            "image-url|title|date-time|content"
+        ],
         "dashboard": {
             "patch-notes": ""
         },
         "skins": {
             "tab-disabled": "false",
             "items": [
-                "example.json|https://progameguides.com/wp-content/uploads/2019/04/fortnite-renegade-raider-icon-png.png",
-                "example.json|https://progameguides.com/wp-content/uploads/2019/04/fortnite-renegade-raider-icon-png.png",
-                "example.json|https://progameguides.com/wp-content/uploads/2019/04/fortnite-renegade-raider-icon-png.png"
+                "CID_001_Athena_Commando_F_Default.json|https://fortnite-api.com/images/cosmetics/br/CID_001_Athena_Commando_F_Default/icon.png",
+                "CID_002_Athena_Commando_F_Default.json|https://fortnite-api.com/images/cosmetics/br/CID_002_Athena_Commando_F_Default/icon.png",
+                "CID_004_Athena_Commando_F_Default.json|https://fortnite-api.com/images/cosmetics/br/CID_004_Athena_Commando_F_Default/icon.png",
+                "CID_007_Athena_Commando_M_Default.json|https://fortnite-api.com/images/cosmetics/br/CID_007_Athena_Commando_M_Default/icon.png",
+                "CID_008_Athena_Commando_M_Default.json|https://fortnite-api.com/images/cosmetics/br/CID_008_Athena_Commando_M_Default/icon.png",
+                "CID_010_Athena_Commando_M.json|https://fortnite-api.com/images/cosmetics/br/CID_010_Athena_Commando_M/icon.png",
+                "CID_011_Athena_Commando_M.json|https://fortnite-api.com/images/cosmetics/br/CID_011_Athena_Commando_M/icon.png",
+                "CID_013_Athena_Commando_F.json|https://fortnite-api.com/images/cosmetics/br/CID_013_Athena_Commando_F/icon.png",
+                "CID_014_Athena_Commando_F.json|https://fortnite-api.com/images/cosmetics/br/CID_014_Athena_Commando_F/icon.png",
+                "CID_016_Athena_Commando_F.json|https://fortnite-api.com/images/cosmetics/br/CID_016_Athena_Commando_F/icon.png",
+                "CID_018_Athena_Commando_M.json|https://fortnite-api.com/images/cosmetics/br/CID_018_Athena_Commando_M/icon.png",
+                "CID_019_Athena_Commando_M.json|https://fortnite-api.com/images/cosmetics/br/CID_019_Athena_Commando_M/icon.png",
+                "CID_020_Athena_Commando_M.json|https://fortnite-api.com/images/cosmetics/br/CID_020_Athena_Commando_M/icon.png",
+                "CID_021_Athena_Commando_F.json|https://fortnite-api.com/images/cosmetics/br/CID_021_Athena_Commando_F/icon.png",
+                "CID_022_Athena_Commando_F.json|https://fortnite-api.com/images/cosmetics/br/CID_022_Athena_Commando_F/icon.png",
+                "CID_023_Athena_Commando_F.json|https://fortnite-api.com/images/cosmetics/br/CID_023_Athena_Commando_F/icon.png",
+                "CID_024_Athena_Commando_F.json|https://fortnite-api.com/images/cosmetics/br/CID_024_Athena_Commando_F/icon.png",
+                "CID_025_Athena_Commando_M.json|https://fortnite-api.com/images/cosmetics/br/CID_025_Athena_Commando_M/icon.png"                
             ]
         },
         "backpacks": {
