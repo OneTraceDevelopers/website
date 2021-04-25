@@ -16,6 +16,7 @@
         },
         "skins": {
             "tab-disabled": "false",
+            "tab-disabled-reason": "",
             "items": [
                 "CID_001_Athena_Commando_Athena_F.json|https://fortnite-api.com/images/cosmetics/br/CID_001_Athena_Commando_F_Default/icon.png",
                 "CID_002_Athena_Commando_Athena_F.json|https://fortnite-api.com/images/cosmetics/br/CID_002_Athena_Commando_F_Default/icon.png",
@@ -562,7 +563,8 @@
             ]
         },
         "backpacks": {
-            "tab-disabled": "false",
+            "tab-disabled": "true",
+            "tab-disabled-reason": "There is nothing to show here, please be patient!",
             "items": [
                 "example.json|https://vignette.wikia.nocookie.net/fortnite/images/e/eb/Black_Shield_-_Back_Bling_-_Fortnite.png/revision/latest?cb=20180605160022",
                 "example.json|https://vignette.wikia.nocookie.net/fortnite/images/e/eb/Black_Shield_-_Back_Bling_-_Fortnite.png/revision/latest?cb=20180605160022",
@@ -570,7 +572,8 @@
             ]
         },
         "pickaxes": {
-            "tab-disabled": "false",
+            "tab-disabled": "true",
+            "tab-disabled-reason": "There is nothing to show here, please be patient!",
             "items": [
                 "example.json|https://fortnitewatch.com/wp-content/uploads/2018/09/raiders-revenge-fortnite-pickaxe-1.png",
                 "example.json|https://fortnitewatch.com/wp-content/uploads/2018/09/raiders-revenge-fortnite-pickaxe-1.png",
