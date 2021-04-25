@@ -12,7 +12,7 @@
             "image-url|title|date-time|content"
         ],
         "dashboard": {
-            "patch-notes": ""
+            "patch-notes": "[-] Thanks for using Astro Swapper <3\n[-] There are no patch notes at the moment, they will be added soon!"
         },
         "skins": {
             "tab-disabled": "false",
