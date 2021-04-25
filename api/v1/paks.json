@@ -1,5 +1,8 @@
 {
     "duplicate": [
-        "pakchunk10_s4-WindowsClient.ucas|pakchunk10_s499-WindowsClient.ucas"
+        "pakchunk10_s4-WindowsClient.pak|pakchunk10_s499-WindowsClient.pak",
+        "pakchunk10_s4-WindowsClient.sig|pakchunk10_s499-WindowsClient.sig",
+        "pakchunk10_s4-WindowsClient.ucas|pakchunk10_s499-WindowsClient.ucas",
+        "pakchunk10_s4-WindowsClient.utoc|pakchunk10_s499-WindowsClient.utoc"
     ]
 }
