@@ -1,10 +1,10 @@
 {
     "downtime": {
-        "disabled": "true",
-        "disabled-reason": "I have disabled the swapper while i work on the API - Offset"
+        "disabled": "false",
+        "disabled-reason": "If you see this please report it to Offset!"
     },
     "update": {
-        "version": "1.0.0.0",
+        "version": "1.0.0.1",
         "download-link": ""
     },
     "ui": {
