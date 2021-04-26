@@ -1,7 +1,7 @@
 {
     "downtime": {
-        "disabled": "false",
-        "disabled-reason": "Example Disabled Notice"
+        "disabled": "true",
+        "disabled-reason": "I have disabled the swapper while i work on the API - Offset"
     },
     "update": {
         "version": "1.0.0.0",
